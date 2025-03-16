@@ -123,4 +123,13 @@
 body {
   margin: 0;
   padding: 0;
+  user-select: none;
+}
+
+Label {
+  color: var(--color-gray-100)
+}
+
+Input {
+  color: var(--color-gray-200)
 }
